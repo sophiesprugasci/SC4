@@ -377,8 +377,8 @@ footer {
 .header {
     grid-template-columns: 1fr; 
     grid-template-areas: 
-        "header-contacts"
         "header-description";
+        "header-contacts"
     gap: var(--top-bottom-margin); 
 }
 
