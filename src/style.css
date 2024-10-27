@@ -406,8 +406,8 @@ footer {
 
 /*PROJECT PREVIEW*/
 .project-name {
-    font-size: 42px;
-    line-height: 42px;
+    font-size: 5vw;
+    line-height: 1.2;
  }
 
  #cover-img {
@@ -418,11 +418,12 @@ footer {
 /*PROJECT PREVIEW*/
 .gradient-overlay {
     height: 50vh;
-    overflow-x: hidden;
 }
 
 .main-container {
     height: 50vh;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
 
 .snap-container-title {
@@ -465,8 +466,8 @@ footer {
 }
 
 /*BLOCK LANDSCAPE MODE ON MOBILE*/
-/* @media only screen and (orientation: landscape) and (max-width: 916px) {
+@media only screen and (orientation: landscape) and (max-width: 916px) {
     body {
         display: none;
     }
-} */
+}
