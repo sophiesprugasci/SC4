@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" style="background-color: #00ff26;">
+<head>
+    <title>OPEN CALL</title>
+	<link rel="icon" type="image/x-icon" href="/src/img/icon.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta name="description" content="A graphic design collective having fun exploring new ways of communication">
+	<meta name="web_author" content="sophiesprugasci">
+	<meta name="copyright" content="SC4">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="src/style.css">
+</head>
+
+<body>
+<!--HEADER-->
+<div class="header-opencall">
+    <div class="header-name">
+        <p>SC4</p>
+        <br>
+        <a style="color:black; text-decoration: none;" href="javascript:window.history.back();">Back</a>
+    </div>
+    <div class="header-title">
+        <p>Name event</p>
+        <br>
+        <p>Open call 00.00.2024–00.00.2025</p>
+        <p>Vernissage 00.00.2025</p>
+        <p>Exhibition 00.00–00.00.2025</p> 
+    </div>
+</div>
+
+<!--SUBMISSION FORM-->
+<div class="form">
+    <form method="post" action='submit-form.html'>
+        <div class="void"></div>
+        <fieldset class="fieldset">
+            <label for="first-name">First Name<input id="first-name" name="first-name" type="text" required /></label>
+            <label for="last-name">Last Name<input id="last-name" name="last-name" type="text" required /></label>
+            <label for="email">Email<input id="email" name="email" type="email" required /></label>
+            <label for="profile-picture">Upload your poster here (pdf)... <input id="profile-picture" type="file" name="file" accept=".pdf" enctype="multipart/form-data" /></label>
+            <label for="bio">Concept<textarea id="bio" name="bio" rows="3" cols="30" placeholder="Write your concept here..."></textarea></label>
+            <label for="terms-and-conditions">
+                <input class="inline" id="terms-and-conditions" type="checkbox" required name="terms-and-conditions" /> I accept the <a href="terms-and-conditions.html" style="color: red; opacity: 1;">terms and conditions</a>
+            </label>
+        <input type="submit" value="Submit"/>
+    </fieldset>
+    <div class="void"></div>
+    </form>
+</div>
+
+</body>
+
+<!--FOOTER-->
+<footer id="credits">
+	&#169 2024 – SC4, all rights reserved.</div>
+</footer>
+
+<!-- JS-->
+<script src="src/app.js"></script>
+
+</html>
