@@ -414,6 +414,43 @@ footer {
     display: block;
 }
 
+
+
+
+
+/*PROJECT PREVIEW*/
+.gradient-overlay {
+    height: 50vh;
+}
+
+.main-container {
+    height: 50vh;
+}
+
+.snap-container-title {
+    height: 50vh;
+}
+
+.container[data-page="index"] {
+    height: 50vh;
+}
+
+ #cover-img {
+    position: fixed;
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    width: 50vw;
+    height: 50vh;
+    max-width: 50vw; 
+    max-height: 50vh;
+    background-size: cover;
+    background-position: center;
+    display: block;
+    z-index: -999; 
+    filter: blur(2px);
+}
+    
 /*MEDIA*/
 .gallery img {
     width: calc((100vw - var(--external-margin)*2) / 3);
