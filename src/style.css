@@ -406,7 +406,7 @@ footer {
 
 /*PROJECT PREVIEW*/
 .project-name {
-    font-size: 5vw;
+    font-size: 2vw;
     line-height: 1.2;
  }
 
@@ -433,7 +433,7 @@ footer {
 .container[data-page="index"] {
     height: 50vh;
 }
-/*
+    
  #cover-img {
     position: fixed;
     top: 50%;
@@ -446,9 +446,7 @@ footer {
     background-size: cover;
     background-position: center;
     display: block;
-    z-index: -999; 
-    filter: blur(2px);
-}*/
+}
     
 /*MEDIA*/
 .gallery img {
