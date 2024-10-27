@@ -379,7 +379,7 @@ footer {
     grid-template-areas: 
         "header-description";
         "header-contacts"
-    gap: var(--top-bottom-margin); 
+    gap: calc(var(--top-bottom-margin)*4); 
 }
 
 .header-opencall, .header-project {
@@ -406,8 +406,8 @@ footer {
 
 /*PROJECT PREVIEW*/
 .project-name {
-    font-size: 60px;
-    line-height: 60px;
+    font-size: 42px;
+    line-height: 42px;
  }
 
  #cover-img {
@@ -415,12 +415,10 @@ footer {
 }
 
 
-
-
-
 /*PROJECT PREVIEW*/
 .gradient-overlay {
     height: 50vh;
+    overflow-x: hidden;
 }
 
 .main-container {
@@ -434,7 +432,7 @@ footer {
 .container[data-page="index"] {
     height: 50vh;
 }
-
+/*
  #cover-img {
     position: fixed;
     top: 50%;
@@ -449,7 +447,7 @@ footer {
     display: block;
     z-index: -999; 
     filter: blur(2px);
-}
+}*/
     
 /*MEDIA*/
 .gallery img {
