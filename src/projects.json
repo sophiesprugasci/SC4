@@ -1,0 +1,107 @@
+[
+    {
+    "id": 1,
+    "collaborators": "SC4",
+    "bar": "Espressione muta",
+    "title": "Espressione muta",
+    "year": "2023",
+    "opencall": "Open call 09.01–12.02.2023",
+    "vernissage": "Vernissage 02.03.2023",
+    "exhibition": "Exhibition 03.03–02.04.2023",
+    "archive": "Archive",
+    "description": "Espressione muta (Mute Expression) was the first event organized by SC4. Through an open call, participants were asked to interpret the theme, with the only constraint being the F4 format of the poster. The title Espressione muta is the union of two antithetical polysemic terms, with multiple interpretative possibilities. The contest was successful and enthusiastic among young graphic designers from Switzerland and the nearby peninsula, confirming our intuition of the lack of spaces and moments of expression for young people who, like us, cultivate a passion for graphics and visual communication, without institutional constraints or executive pressures. The 20 posters selected for the exhibition and the three winners were chosen by a jury composed of three professionals in the sector – [Sabrina Cerea|https://www.instagram.com/sabrina_cerea/] from Zurich, [Michele Forzano|https://centralstudio.ch/Info-6] from Lugano and [Leonardo Pellegrino|https://aisslinger-pellegrino.com/] from Milan – who carefully selected the works that in their opinion best interpreted the theme.",
+    "cover": "src/img/1.1.jpg",
+    "gallery": [
+    "src/img/1.1.jpg",
+    "src/img/1.2.mp4",
+    "src/img/1.3.mp4",
+    "src/img/1.4.mp4",
+    "src/img/1.5.jpg",
+    "src/img/1.6.jpg"
+    ]
+},
+{
+    "id": 2,
+    "collaborators": "SC4 X APC",
+    "bar": "Mucchio",
+    "title": "Mucchio",
+    "year": "2023",
+    "opencall": "Open call 01.05–31.05.2023",
+    "vernissage": "Vernissage 22.06.2023",
+    "exhibition": "Exhibition 23.06–23.08.2023",
+    "archive": "Archive",
+    "description": "Mucchio (Pile) is an exhibition commissioned by [APC|https://www.instagram.com/percorsiculturali/], which is part of the first edition of BreggiArte, a cultural journey aimed at enhancing the Muggio Valley. In several municipalities of the valley, works by various Swiss and international artists have been exhibited, making the valley itself an exhibition space to explore. 12 posters that participated in the Mucchio open call were selected by three external judges, to be exhibited in the Muggio town hall for the duration of the exhibition.",
+    "cover": "src/img/2.1.jpg",
+    "gallery": [
+    "src/img/2.1.jpg",
+    "src/img/2.2.mp4",
+    "src/img/2.3.jpg",
+    "src/img/2.4.jpg"
+    ]
+},
+{
+    "id": 3,
+    "collaborators": "SC4 X Aura Collective",
+    "bar": "Utopie futuriste",
+    "title": "Utopie futuriste",
+    "year": "2023",
+    "opencall": "14.10.2023",
+    "exhibition": "Ohm Club Lugano",
+    "description": "Utopie futuriste is a format realised in collaboration with [Aura Collective| https://www.instagram.com/aura_collective_/], a group of young techno DJs from Lugano, born from the idea of uniting music and visuals in an immersive experience. The basic concept is inspired by Afrofuturism, exploring the basics of electronic music with repetitive, industrial and melancholic sounds.",
+    "cover": "src/img/3.1.jpg",
+    "gallery": [
+    "src/img/3.1.jpg"
+    ]
+},
+{
+    "id": 4,
+    "collaborators": "SC4 X SUPSI Visual Communication",
+    "bar": "Artichoke 20",
+    "title": "Artichoke 20",
+    "year": "2023",
+    "opencall": "27.10.2023",
+    "exhibition": "Torre dei Forni, Morbio Inferiore",
+    "description": "Artichoke 20 is an exhibition commissioned by SUPSI's Visual Communication course. The aim was to unveil and promote the release of the latest issue of the magazine Artichoke, produced annually by the 3rd year students. Having reached this important milestone, a very evocative location was chosen for the 20th issue, namely the Torre dei Forni (ex-Saceba), a former cement factory now used as an exhibition space. Inside the imposing building, we built a chronological path, showing the history of the magazine through a route displaying the old issues. Going up from floor to floor, it was therefore possible to retrace its evolution, until reaching the top floor, where the 20th issue was displayed. To accompany the viewing, several exploration and consultation areas were created on the floor, including the magazine's page helm in the form of a transparent page wall and an animated projection of the magazine's elements.",
+    "cover": "src/img/4.1.jpg",
+    "gallery": [
+    "src/img/4.1.jpg",
+    "src/img/4.2.mp4",
+    "src/img/4.3.jpg",
+    "src/img/4.4.mp4",
+    "src/img/4.5.mp4"
+    ]
+},
+{
+    "id": 5,
+    "collaborators": "SC4 X Aura Collective",
+    "bar": "Utopie futuriste II",
+    "title": "Utopie futuriste II",
+    "year": "2024",
+    "opencall": "16.03.2024",
+    "exhibition": "Ohm Club Lugano",
+    "description": "Our collaboration with [Aura Collective| https://www.instagram.com/aura_collective_/] continued with a second edition of the Utopie Futuriste format. For this edition, we tried to take the visuals to a higher level by creating silhouettes and mapping them. In the centre is a tribal mask, on either side two rectangles, with a change of colour to differentiate the 4 different DJs of the evening. As a special guest, we were lucky to host Casual Treatment, directly from Berlin.",
+    "cover": "src/img/5.1.jpg",
+    "gallery": [
+    "src/img/5.1.jpg",
+    "src/img/5.2.mp4"
+    ]
+},
+{
+    "id": 6,
+    "collaborators": "SC4",
+    "bar": "Name event",
+    "title": "Name event",
+    "year": "2025",
+    "opencall": "Open call 00.00–00.00.2025",
+    "vernissage": "Vernissage 00.00.2025",
+    "exhibition": "Exhibition 00.00–00.00.2025",
+    "archive": "Archive",
+    "description": "Description",
+    "cover": "src/img/1.3.jpg",
+    "gallery": [
+    "src/img/1.1.jpg",
+    "src/img/1.2.jpg",
+    "src/img/1.3.jpg"
+    ]
+}
+]

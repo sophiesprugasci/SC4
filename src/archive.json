@@ -1,0 +1,81 @@
+[
+    {
+        "imageUrl": "src/posters/Anonimo.jpg",
+        "author": "Anonimo Anonimo",
+        "contest": "Espressione muta",
+        "score": "selected"
+    },
+    {
+        "imageUrl": "src/posters/Barena.jpg",
+        "author": "Barena Barena",
+        "contest": "Mucchio",
+        "score": "selected"
+    },
+    {
+        "imageUrl": "src/posters/Bosetto.jpg",
+        "author": "Belinda Bosetto",
+        "contest": "Nome",
+        "score": "participant"
+    },
+    {
+        "imageUrl": "src/posters/Brunet.jpg",
+        "author": "Pierre Brunet",
+        "contest": "Espressione muta",
+        "score": "winner"
+    },
+    {
+        "imageUrl": "src/posters/Camozzi.jpg",
+        "author": "Luigi Camozzi",
+        "contest": "Mucchio",
+        "score": "selected"
+    },
+    {
+        "imageUrl": "src/posters/Fonseca.jpg",
+        "author": "Max Fonseca",
+        "contest": "Nome",
+        "score": "participant"
+    },
+    {
+        "imageUrl": "src/posters/Lepori.jpg",
+        "author": "Mirta Lepori",
+        "contest": "Espressione muta",
+        "score": "selected"
+    },
+    {
+        "imageUrl": "src/posters/Lionello.jpg",
+        "author": "Lionello Lionello",
+        "contest": "Mucchio",
+        "score": "selected"
+    },
+    {
+        "imageUrl": "src/posters/Pagliaccio.jpg",
+        "author": "Pagliaccio Anonimo",
+        "contest": "Nome",
+        "score": "participant"
+    },
+    {
+        "imageUrl": "src/posters/Pesenti.jpg",
+        "author": "Pesenti Pesenti",
+        "contest": "Espressione muta",
+        "score": "winner"
+    },
+    {
+        "imageUrl": "src/posters/Pinto.jpg",
+        "author": "Pinto Pinto",
+        "contest": "Mucchio",
+        "score": "selected"
+    },
+    {
+        "imageUrl": "src/posters/Prisco.jpg",
+        "author": "Prisca Prisco",
+        "contest": "Nome",
+        "score": "participant"
+    },
+    {
+        "imageUrl": "src/posters/Zobrist.jpg",
+        "author": "Elias Zobrist",
+        "contest": "Nome",
+        "score": "participant"
+    }
+    
+]
